@@ -1,4 +1,4 @@
-# proposal-script
+# propose-your-gf with BASH
 
 Love proposal bash script for a techy gf.
 
